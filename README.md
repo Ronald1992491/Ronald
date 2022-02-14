@@ -1,2 +1,1 @@
-# Ronald
-Case Study Publications`
+
